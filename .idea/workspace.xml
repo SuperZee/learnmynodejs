@@ -31,11 +31,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4-1-events.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cha4/4-1-events.js">
+      <file leaf-file-name="4-1-setTimeout.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cha4/4-1-setTimeout.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4-2-setInterval.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cha4/4-2-setInterval.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.774193">
+              <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4-3-setImmediate.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cha4/4-3-setImmediate.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.903226">
+              <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4-4-events-发射器监听器.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cha4/4-4-events-发射器监听器.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -62,6 +96,8 @@
         <option value="$PROJECT_DIR$/node_modules/censorify/README.md" />
         <option value="$PROJECT_DIR$/node_modules/censorify/package.json" />
         <option value="$PROJECT_DIR$/cha4/4-1-events.js" />
+        <option value="$PROJECT_DIR$/cha4/4-1-setInterval.js" />
+        <option value="$PROJECT_DIR$/cha4/4-3-setImmediate.js" />
       </list>
     </option>
   </component>
@@ -147,6 +183,8 @@
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="javascript.nodejs.core.library.configured.version" value="5.8.0" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -154,12 +192,24 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.readwords.js">
+  <component name="RunManager" selected="Node.js.4-3-setImmediate.js">
     <configuration default="false" name="readwords.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="$PROJECT_DIR$/cha3/readwords.js" working-dir="$PROJECT_DIR$">
       <browser name="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
       <method />
     </configuration>
     <configuration default="false" name="censorTest.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="$PROJECT_DIR$/node_modules/censorify/censorTest.js" working-dir="$PROJECT_DIR$">
+      <browser name="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <method />
+    </configuration>
+    <configuration default="false" name="4-1-events.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="$PROJECT_DIR$/cha4/4-1-setTimeout.js" working-dir="$PROJECT_DIR$">
+      <browser name="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <method />
+    </configuration>
+    <configuration default="false" name="4-1-setInterval.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="$PROJECT_DIR$/cha4/4-2-setInterval.js" working-dir="$PROJECT_DIR$">
+      <browser name="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <method />
+    </configuration>
+    <configuration default="false" name="4-3-setImmediate.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="$PROJECT_DIR$/cha4/4-3-setImmediate.js" working-dir="$PROJECT_DIR$">
       <browser name="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
       <method />
     </configuration>
@@ -219,14 +269,20 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="2">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.readwords.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.censorTest.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.4-1-events.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.4-1-setInterval.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.4-3-setImmediate.js" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.readwords.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.censorTest.js" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.4-3-setImmediate.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.4-1-setInterval.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.4-1-events.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.readwords.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.censorTest.js" />
       </list>
     </recent_temporary>
   </component>
@@ -361,10 +417,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cha4/4-1-events.js">
+    <entry file="file://$PROJECT_DIR$/cha4/4-1-setTimeout.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cha4/4-2-setInterval.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.774193">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cha4/4-3-setImmediate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.903226">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cha4/4-4-events-发射器监听器.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
