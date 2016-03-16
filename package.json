@@ -1,0 +1,8 @@
+// package.json
+// 作用项目打包的一些定义。
+
+{
+  "name": "SpicolorPendra-Demo",// 包的唯一名字
+  "preferGlobal" : true, // 更加倾向与全局安装,没有实质作用
+  "version": "0.0.1"
+}
