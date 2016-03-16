@@ -65,11 +65,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4-4-events-发射器监听器.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="4-4-events-发射器监听器.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cha4/4-4-events-发射器监听器.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-12.709678">
+              <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4-5-events-发射器.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cha4/4-5-events-发射器.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.935484">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4-5-events-狗吃饭的例子.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cha4/4-5-events-狗吃饭的例子.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.32418525">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -98,6 +120,9 @@
         <option value="$PROJECT_DIR$/cha4/4-1-events.js" />
         <option value="$PROJECT_DIR$/cha4/4-1-setInterval.js" />
         <option value="$PROJECT_DIR$/cha4/4-3-setImmediate.js" />
+        <option value="$PROJECT_DIR$/cha4/4-4-events-发射器监听器.js" />
+        <option value="$PROJECT_DIR$/cha4/4-5-events-发射器.js" />
+        <option value="$PROJECT_DIR$/cha4/4-5-events-狗吃饭的例子.js" />
       </list>
     </option>
   </component>
@@ -192,24 +217,24 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.4-3-setImmediate.js">
-    <configuration default="false" name="readwords.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="$PROJECT_DIR$/cha3/readwords.js" working-dir="$PROJECT_DIR$">
-      <browser name="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-      <method />
-    </configuration>
-    <configuration default="false" name="censorTest.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="$PROJECT_DIR$/node_modules/censorify/censorTest.js" working-dir="$PROJECT_DIR$">
-      <browser name="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-      <method />
-    </configuration>
-    <configuration default="false" name="4-1-events.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="$PROJECT_DIR$/cha4/4-1-setTimeout.js" working-dir="$PROJECT_DIR$">
-      <browser name="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.4-5-events-狗吃饭的例子.js">
     <configuration default="false" name="4-1-setInterval.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="$PROJECT_DIR$/cha4/4-2-setInterval.js" working-dir="$PROJECT_DIR$">
       <browser name="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
       <method />
     </configuration>
     <configuration default="false" name="4-3-setImmediate.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="$PROJECT_DIR$/cha4/4-3-setImmediate.js" working-dir="$PROJECT_DIR$">
+      <browser name="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <method />
+    </configuration>
+    <configuration default="false" name="4-4-events-发射器监听器.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="$PROJECT_DIR$/cha4/4-4-events-发射器监听器.js" working-dir="$PROJECT_DIR$">
+      <browser name="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <method />
+    </configuration>
+    <configuration default="false" name="4-5-events-发射器.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="$PROJECT_DIR$/cha4/4-5-events-发射器.js" working-dir="$PROJECT_DIR$">
+      <browser name="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <method />
+    </configuration>
+    <configuration default="false" name="4-5-events-狗吃饭的例子.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="$PROJECT_DIR$/cha4/4-5-events-狗吃饭的例子.js" working-dir="$PROJECT_DIR$">
       <browser name="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
       <method />
     </configuration>
@@ -270,19 +295,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.readwords.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.censorTest.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.4-1-events.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.4-1-setInterval.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.4-3-setImmediate.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.4-1-setInterval.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.4-3-setImmediate.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.4-4-events-发射器监听器.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.4-5-events-发射器.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.4-5-events-狗吃饭的例子.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.4-3-setImmediate.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.4-1-setInterval.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.4-1-events.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.readwords.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.censorTest.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.4-5-events-狗吃饭的例子.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.4-5-events-发射器.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.4-4-events-发射器监听器.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.4-3-setImmediate.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.4-1-setInterval.js" />
       </list>
     </recent_temporary>
   </component>
@@ -335,13 +360,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33333334">
           <caret line="430" column="32" selection-start-line="430" selection-start-column="32" selection-end-line="430" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/5.8.0/core-modules/vm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60189575">
-          <caret line="52" column="15" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -435,6 +453,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/5.8.0/core-modules/vm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58957654">
+          <caret line="52" column="15" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cha4/4-3-setImmediate.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-14.903226">
@@ -447,8 +473,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cha4/4-4-events-发射器监听器.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-12.709678">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cha4/4-5-events-发射器.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.935484">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cha4/4-5-events-狗吃饭的例子.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32418525">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
           <folding />
         </state>
       </provider>
