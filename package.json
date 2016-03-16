@@ -4,5 +4,19 @@
 {
   "name": "SpicolorPendra-Demo",// 包的唯一名字
   "preferGlobal" : true, // 更加倾向与全局安装,没有实质作用
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "author": "SpiColorPendra-Demo",
+  "description": "这是我第一个打包的模块",
+  "keywords" : "SPICOLORPENDRA",
+  "dependencies" :
+  {
+    "express" :"latest",
+    "cookies": "*",
+    "connect" : "2.x.x"
+  },
+  "engines" :
+  {
+    "node" : ">=0.8"
+  }
+
 }
