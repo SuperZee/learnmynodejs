@@ -22,10 +22,10 @@ Answers.prototype._read = function () {
 
 var r = new Answers();
 // 方式 1：直接读取
-console.log("Direct read :" + r.read().toString());
+console.log("Direct read :" + r.read());
 // 方式 2：监听data事件 一次性读取完毕
 r.on('data', function (data) {
-    console.log("Callback read:" + data.toString());
+    console.log("Callback read:" + data);
 });
 
 r.on('readable',()=>{
