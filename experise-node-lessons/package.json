@@ -1,0 +1,15 @@
+{
+  "name": "node-lesson-2",
+  "version": "0.0.1",
+  "description": "",
+  "main": "学习使用外部模块.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "utility" : "1.6.0"
+  }
+}
